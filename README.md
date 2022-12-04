@@ -15,7 +15,7 @@ This CSV file can be found here
 Fortunately, this data did not need that much munging and cleaning, besides some formating issues with 5 different columns.
 
 Data preview:
-This data has 42 different columns/features, and has 1003 rows.
+This data has 42 different features, and has 1003 samples.
 ![ds data preview](https://user-images.githubusercontent.com/68667116/205520250-e7baa61c-6634-4ce2-a640-11f4560b2242.png)
 
 
