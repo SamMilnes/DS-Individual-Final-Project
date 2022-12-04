@@ -24,11 +24,11 @@ These columns needed to be converted to numerical columns. I did this by creatin
 
 Problem Solved!
 
-Next we needed to find what we would use for our model. To do this I used a classifier called ExtraTreesClassifier(https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html):
+Next we needed to find what features we would use for our model. To do this I used a classifier called ExtraTreesClassifier (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html):
 ![Screenshot 2022-12-04 180942](https://user-images.githubusercontent.com/68667116/205521313-c4b184d0-c41b-40f8-a5f3-d3760fddbc7b.png)
 
 
-We then needed to normalize our features, so all of the numbers were on the same scale. We did this using make_column_transformer function from the sklearn library:
+We then needed to normalize our features, so all of the numbers were on the same scale. We did this using make_column_transformer (https://scikit-learn.org/stable/modules/generated/sklearn.compose.make_column_transformer.html) function from the sklearn library:
 ![Screenshot 2022-12-04 180701](https://user-images.githubusercontent.com/68667116/205521163-84e986b9-df0f-4150-890c-c43f323d1d63.png)
 
 ## Methods
