@@ -7,7 +7,7 @@ I was curious to see if I could accurately predict the golf scores for the annua
 
 The goal of this project was to try to predict golf scores, while also further gaining knowledge in the deep learning/machine learning space.
 ## Selection of Data.
-https://github.com/jdubbert/Scrape-World-Golf-Rankings
+The first step in this project was to get data. Because of time constraints, I decided to use this web scraper I found on github, that scrapes the data of the offical PGA website using R. https://github.com/jdubbert/Scrape-World-Golf-Rankings
 ## Methods
 Tools:
 * 1
