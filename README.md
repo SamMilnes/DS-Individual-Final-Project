@@ -14,7 +14,7 @@ This CSV file can be found here
 Fortunately, this data did not need that much munging and cleaning, besides some formating issues with 5 different columns.
 
 Data preview:
-![My Image](C:\Users\milness\Desktop/ds data preview.png)
+![My Image](Users\milness\Desktop/ds data preview.png)
 
 ## Methods
 Tools:
