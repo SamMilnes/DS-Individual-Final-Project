@@ -1,8 +1,9 @@
 # Can a Neural Network Predict Golf Scores?
 ## Introduction
-Write Introduction Here
-## Selection of Data
-Write data selection here
+When brainstorming project ideas, it came apparent that I wanted to work on something that I was heavily intersted in. I decided I wanted to combine my interests of neural networks with the sport of golf.
+I was cursious to see if I could accurately predict the golf scores for the annual PGA Masters Tournament, using deep learning techniques
+## Selection of Data.
+https://github.com/jdubbert/Scrape-World-Golf-Rankings
 ## Methods
 Tools:
 * 1
