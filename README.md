@@ -46,7 +46,7 @@ Next it was time to create our model. After playing around with hyperparameters 
 ## Methods
 Tools:
 * Google Colab for code development
-* NumPy, Pandas, Seaborn, Matplotlib, for EDA(exploratory data analysis) and data cleaning
+* NumPy, Pandas, Seaborn, Matplotlib, for EDA (exploratory data analysis) and data cleaning
 * sklearn for data splitting and normalization
 * TensorFlow for model creation and validation
 ## Results
