@@ -1,4 +1,5 @@
 # Can a Neural Network Predict Golf Scores?
+https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/MastersTournamentLogo.svg/1200px-MastersTournamentLogo.svg.png
 ## Introduction
 When brainstorming project ideas, it came apparent that I wanted to work on something that I was heavily interested in. I decided I wanted to combine my interests of neural networks with the sport of golf.
 
