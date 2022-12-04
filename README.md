@@ -11,19 +11,25 @@ The first step in this project was to get data. Because of time constraints, I d
 
 This CSV file can be found here
 
-
-Fortunately, this data did not need that much munging and cleaning, besides some formating issues with 5 different columns.
-
 Data preview:
 This data has 42 different features, and has 1003 samples.
 ![ds data preview](https://user-images.githubusercontent.com/68667116/205520250-e7baa61c-6634-4ce2-a640-11f4560b2242.png)
 
+
+Fortunately, this data did not need that much munging and cleaning, besides some formating issues with 5 different columns.
+![Screenshot 2022-12-04 175739](https://user-images.githubusercontent.com/68667116/205520672-50ae91b8-5042-49c6-8b27-d299e9a7394f.png)
+
+These columns needed to be converted to numerical columns. I did this by creating these five functions.
+![Screenshot 2022-12-04 175856](https://user-images.githubusercontent.com/68667116/205520750-59bfa90b-8ae8-47e3-9787-5c293ca58741.png)
+
+Problem Solved!
 
 
 ## Methods
 Tools:
 * 1
 * 2
+
 * 3
 * 4
 * 5
