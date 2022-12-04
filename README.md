@@ -10,6 +10,7 @@ The goal of this project was to try to predict golf scores, while also further g
 The first step in this project was to get data. Because of time constraints, I decided to use this web scraper I found on github, that scrapes the data of the offical PGA website using R. [https://github.com/jdubbert/Scrape-World-Golf-Rankings](https://github.com/jdubbert/Predicting-2019-Masters/blob/master/PGA_Scrape_Data.Rmd)
 
 This CSV file can be found here
+![ds data preview](https://user-images.githubusercontent.com/68667116/205520250-e7baa61c-6634-4ce2-a640-11f4560b2242.png)
 
 Fortunately, this data did not need that much munging and cleaning, besides some formating issues with 5 different columns.
 
