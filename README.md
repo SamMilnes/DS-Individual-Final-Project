@@ -32,8 +32,8 @@ Next we needed to find what features we would use for our model. To do this I us
 
 We then needed to normalize our features, so all of the numbers were on the same scale. We did this using make_column_transformer (https://scikit-learn.org/stable/modules/generated/sklearn.compose.make_column_transformer.html) function from the sklearn library:
 
+![Screenshot 2022-12-04 214754](https://user-images.githubusercontent.com/68667116/205538583-dc5229ff-bc00-4011-a241-11a95fb9a047.png)
 
-![Screenshot 2022-12-04 180701](https://user-images.githubusercontent.com/68667116/205521163-84e986b9-df0f-4150-890c-c43f323d1d63.png)
 
 Next it was time to create our model. After playing around with hyperparameters for a bit, I decided to create a network with 4 hidden layers, a mean squared error loss function, an Adam optimizier, a learning rate of 0.01, and 300 epochs. The does not need to be saved anywhere, because I created a random seed, so the numbers will always be the same.
 
