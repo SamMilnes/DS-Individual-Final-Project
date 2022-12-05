@@ -50,7 +50,7 @@ Tools:
 * sklearn for data splitting and normalization
 * TensorFlow for model creation and validation
 ## Results
-Write results here
+After compiling the model. It was time to evaluate.
 ## Discussion
 Write Discussion here
 ## Reference
