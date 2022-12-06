@@ -65,6 +65,11 @@ CSV file of test results can be found here https://github.com/SamMilnes/DS-Indiv
 
 
 ## Discussion
-Write Discussion here
+After experimenting with different hyperparamters for my deep learning network, I found that my model was most accurate when I used Sequential model with 4 differnt dense layers, as well as using an Adam optimizer, learning rate of 0.01, 300 epocs, a relu activation function, anda mean squared error loss function. 
+
+Diving deeper into my results, it turns out that it is actually pretty hard to predict golf scores for a specific golf tournament. Having a background in golf, there is so many other external factors that can go into someones final round score. Golf is an indivdual sport, meaning if one player has one bad day, it can mess up there entire total score.
+
+
+The final mean squared error for my training data was 53.89, which in reality is not that good. But looking at the test results, some of the scores were actually pretty close. Now on the flip side, some of the predicted scores were actually really off the mark.
 ## Reference
 Write Reference Here
