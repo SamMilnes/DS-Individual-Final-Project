@@ -99,6 +99,17 @@ golf_data = pd.read_csv('YOUR_FILE_PATH/golf_data_forDSFinalProject.csv', encodi
 
 After you do this, everything should run smoothly.
 ## Reference
-Write Reference Here
+* https://github.com/jdubbert/Predicting-2019-Masters/blob/master/PGA_Scrape_Data.Rmd
+* https://scikit-learn.org/stable/modules/generated/sklearn.compose.make_column_transformer.html
+* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html
+* [https://pandas.pydata.org/](https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)
+* https://numpy.org/doc/
+* https://www.tensorflow.org/api_docs/python/tf
+* https://keras.io/
+* https://seaborn.pydata.org/
+* https://matplotlib.org/stable/index.html
+* https://scikit-learn.org/stable/
+* https://www.masters.com/en_US/index.html
+
 
 
