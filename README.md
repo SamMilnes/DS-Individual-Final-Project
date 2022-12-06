@@ -84,7 +84,7 @@ To run the code, you need to download this file,
 
 https://github.com/SamMilnes/DS-Individual-Final-Project/blob/main/golf_data_forDSFinalProject%20(1).csv
 
-and save somewhere of your choosing. After doing this you need to go to the first cell and comment out this line,
+and save it somewhere of your choosing. After doing this you need to go to the first cell and comment out this line,
 
 drive.mount('/content/gdrive')
 
