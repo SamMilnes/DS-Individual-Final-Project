@@ -60,6 +60,9 @@ Plotting the loss function againts the number of epochs
 ![Screenshot 2022-12-06 120800](https://user-images.githubusercontent.com/68667116/205976794-0ef52a12-ace2-4e8d-8b5f-dfc89f877b96.png)
 
 
+CSV file of test results can be found here https://github.com/SamMilnes/DS-Individual-Final-Project/blob/main/Results_Final%20(4).csv
+
+
 
 ## Discussion
 Write Discussion here
