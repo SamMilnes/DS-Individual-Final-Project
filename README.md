@@ -71,5 +71,9 @@ Diving deeper into my results, it turns out that it is actually pretty hard to p
 
 
 The final mean squared error for my training data was 53.89, which in reality is not that good. But looking at the test results, some of the scores were actually pretty close. Now on the flip side, some of the predicted scores were actually really off the mark.
+
+Overall, this was a really fun project to do. I learned a lot about machine learning and also learned that it is extremly difficult to predict someones scores for the PGA Masters tournament that happens every year.
+
+Even though I did this project for my data science class project, I plan on trying to make my model more accurate and mess around with it more in the feature.
 ## Reference
 Write Reference Here
