@@ -50,7 +50,14 @@ Tools:
 * sklearn for data splitting and normalization
 * TensorFlow for model creation and validation
 ## Results
-After compiling the model. It was time to evaluate.
+After compiling the model. It was time to evaluate. To make things easier and more consistent, I used train_test_split's random_state and TensorFlows random.set_seed both equal to 11, so that I would get the same model performance each run I did.
+
+
+![Screenshot 2022-12-06 120552](https://user-images.githubusercontent.com/68667116/205976383-13114516-6a7c-4c70-991d-b50bd905394b.png)
+
+
+
+
 ## Discussion
 Write Discussion here
 ## Reference
