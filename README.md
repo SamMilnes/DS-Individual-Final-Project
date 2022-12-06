@@ -80,4 +80,24 @@ Write Reference Here
 ## Instructions For Running Project
 The only special instructions for running the code is to change the file path to the csv data file being read in. When I created this project, I used Google Colab so I had the file in my drive and read it in that way.
 
-To run the code, you need to download this file 
+To run the code, you need to download this file, 
+
+https://github.com/SamMilnes/DS-Individual-Final-Project/blob/main/golf_data_forDSFinalProject%20(1).csv
+
+and save somewhere of your choosing. After doing this you need to go to the first cell and comment out this line,
+
+drive.mount('/content/gdrive')
+
+
+Lastly, you need to change the file path to where you saved the file. So in the second cell instead of 
+
+golf_data = pd.read_csv('/content/gdrive/MyDrive/Data Science Individual Project/golf_data_forDSFinalProject.csv', encoding= 'unicode_escape')
+
+
+it should be,
+
+golf_data = pd.read_csv('YOUR_FILE_PATH/golf_data_forDSFinalProject.csv', encoding= 'unicode_escape')
+
+
+After you do this, everything should run smoothly.
+
