@@ -77,6 +77,9 @@ Overall, this was a really fun project to do. I learned a lot about machine lear
 Even though I did this project for my data science class project, I plan on trying to make my model more accurate and mess around with it more in the feature.
 
 
+After doing some research, it was clear that other people have tried using machine learning for predicing golf scores many times. The overlying conclusion that gets talked about is that it is very difficult to be accurate with sports predicting in general. Espically a sport like golf where it is played by one person, not by a team.
+
+
 The code for this project can be found here: https://github.com/SamMilnes/DS-Individual-Final-Project/blob/main/Code.ipynb
 
 ## Instructions For Running Project
