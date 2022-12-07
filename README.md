@@ -75,6 +75,10 @@ The final mean squared error for my training data was 53.89, which in reality is
 Overall, this was a really fun project to do. I learned a lot about machine learning and also learned that it is extremly difficult to predict someones scores for the PGA Masters tournament that happens every year.
 
 Even though I did this project for my data science class project, I plan on trying to make my model more accurate and mess around with it more in the feature.
+
+
+The code for this project can be found here: https://github.com/SamMilnes/DS-Individual-Final-Project/blob/main/Code.ipynb
+
 ## Instructions For Running Project
 The only special instructions for running the code is to change the file path to the csv data file being read in. When I created this project, I used Google Colab so I had the file in my drive and read it in that way.
 
