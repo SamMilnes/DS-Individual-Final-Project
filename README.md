@@ -17,6 +17,8 @@ This data has 42 different features, and has 1003 samples.
 
 
 Fortunately, this data did not need that much munging and cleaning, besides some formating issues with 5 different columns.
+
+
 ![Screenshot 2022-12-04 175739](https://user-images.githubusercontent.com/68667116/205520672-50ae91b8-5042-49c6-8b27-d299e9a7394f.png)
 
 These columns needed to be converted to numerical columns. I did this by creating these five functions.
